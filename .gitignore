@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Logs / runtime artifacts produced by knowledge_updater.py --event-log
+logs/
+*.jsonl
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local scratch/working dir
+tmp/
+

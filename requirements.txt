@@ -1,0 +1,5 @@
+# Python dependencies for tools/knowledge_updater.py
+# Core: stdlib only - the module degrades gracefully without crawl4ai.
+# Optional: install crawl4ai to enable live crawls.
+#   pip install -r requirements.txt
+crawl4ai>=0.4.0

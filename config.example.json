@@ -1,0 +1,18 @@
+{
+  "arxiv_categories": ["cs.SI"],
+  "web_sources": [
+    "https://www.linkedin.com/business",
+    "https://www.linkedin.com/blog/engineering",
+    "https://sproutsocial.com/insights",
+    "https://blog.hootsuite.com",
+    "https://hbr.org"
+  ],
+  "search_queries": [
+    "linkedin algorithm ranking 2026",
+    "personal branding thought leadership research",
+    "social selling index benchmarks",
+    "b2b content engagement linkedin"
+  ],
+  "relevance_floor": 0.10,
+  "limit": 50
+}
